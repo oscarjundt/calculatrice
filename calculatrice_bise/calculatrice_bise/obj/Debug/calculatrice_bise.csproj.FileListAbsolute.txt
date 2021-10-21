@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\bin\Debug\calculatrice_bise.exe.config
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\bin\Debug\calculatrice_bise.exe
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\bin\Debug\calculatrice_bise.pdb
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\obj\Debug\calculatrice_bise.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\obj\Debug\calculatrice_bise.Form1.resources
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\obj\Debug\calculatrice_bise.Properties.Resources.resources
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\obj\Debug\calculatrice_bise.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\obj\Debug\calculatrice_bise.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\obj\Debug\calculatrice_bise.exe
+C:\Users\oscar\source\repos\calculatrice_bise\calculatrice_bise\obj\Debug\calculatrice_bise.pdb
